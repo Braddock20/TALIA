@@ -9,14 +9,14 @@ module.exports = {
     // ==============================
     //          SESSION
     // ==============================
-    SESSION_ID: process.env.SESSION_ID || "",
+    SESSION_ID: process.env.SESSION_ID || "HansTz&L0B0nA4a#4V9WSfwMxBPolhAyPIvRcmg0T_9LgjTJPrTg6S7eKV4",
 
     // ==============================
     //           OWNER
     // ==============================
-    OWNER_NUMBER: process.env.OWNER_NUMBER || "",
+    OWNER_NUMBER: process.env.OWNER_NUMBER || "254742530793",
     OWNER_NAME: process.env.OWNER_NAME || "HansTech",
-    DEV: process.env.DEV || "255760774888",
+    DEV: process.env.DEV || "254742530793",
 
     // ==============================
     //         ANTI CALL
@@ -47,7 +47,7 @@ module.exports = {
     AUTO_REPLY: process.env.AUTO_REPLY || "false",
     AUTO_TYPING: process.env.AUTO_TYPING || "false",
     READ_CMD: process.env.READ_CMD || "false",
-    AUTO_RECORDING: process.env.AUTO_RECORDING || "false",
+    AUTO_RECORDING: process.env.AUTO_RECORDING || "true",
     
     // ==============================
     //           GROUP
