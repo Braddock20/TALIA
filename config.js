@@ -66,7 +66,7 @@ module.exports = {
     AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
     AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
     AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
-    AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS BY 𝐕𝐎𝐑𝐓𝐄𝐗-𝐗𝐌𝐃*",
+    AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "❤️",
     
     // ==============================
     //      BOT APPEARANCE
